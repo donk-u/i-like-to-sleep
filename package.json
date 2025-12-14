@@ -1,0 +1,22 @@
+{
+  "name": "kobe-portfolio",
+  "version": "1.0.0",
+  "description": "Deep Sleeper | 睡眠工程师个人作品集网站",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'This is a static website, no server required. Open index.html in your browser.'",
+    "build": "echo 'No build step required for this project. Frontend files are static.'",
+    "test": "echo 'No tests specified' && exit 0"
+  },
+  "keywords": [
+    "portfolio",
+    "sleep-engineer",
+    "web-development",
+    "cloudbase"
+  ],
+  "author": "Deep Sleeper",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

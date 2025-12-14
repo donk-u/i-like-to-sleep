@@ -1,0 +1,19 @@
+# 依赖
+node_modules/
+package-lock.json
+
+# 环境变量
+.env
+.env.local
+
+# 日志
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# Vercel
+.vercel
+node_modules
+.env*.local
